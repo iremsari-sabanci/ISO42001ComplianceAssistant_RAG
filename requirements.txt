@@ -1,8 +1,0 @@
-streamlit>=1.30
-pandas>=2.0
-openpyxl>=3.1
-networkx>=3.0
-requests>=2.31
-# Optional, only for specific generation backends:
-#   transformers, torch, accelerate   -> LLM_BACKEND=transformers (on-prem H200)
-#   tiktoken                           -> exact prompt-token counts
