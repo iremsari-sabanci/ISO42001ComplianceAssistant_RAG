@@ -1,0 +1,39 @@
+control_id,title,evidence_status,evidence_source,notes
+A.2.2,AI policy,evidence_present,POL-AIGOV-001 AI Policy,
+A.2.3,Alignment with other organizational policies,evidence_present,POL-AIGOV-001 AI Policy,
+A.2.4,Review of the AI policy,evidence_present,POL-AIGOV-001 AI Policy,
+A.3.2,AI roles and responsibilities,gap,,Pending addition in PR-AIGOV-002 / PR-SEC-001 Privileged Session Management - owner: Information Security Directorate
+A.3.3,Reporting of concerns,gap,,Pending addition in PR-DG-006 AI Concern Reporting Route - owner: Data Management and Analytics Directorate
+A.4.2,Resource documentation,gap,,Pending addition in PR-ITS-001 IT Risk Management / PR-ITO-005 Asset and Configuration Management - owner: IT Strategy and Governance Directorate
+A.4.3,Data resources,gap,,Pending addition in PR-DG-002 Metadata and Data Lineage Procedure - owner: Data Management and Analytics Directorate
+A.4.4,Tooling resources,gap,,Pending addition in PR-ITO-005 Asset and Configuration Management Procedure - owner: IT Infrastructure and Operations Directorate
+A.4.5,System and computing resources,gap,,Pending addition in PR-ITO-001 Capacity and Performance / PR-ITO-004 Backup and BC - owner: IT Infrastructure and Operations Directorate
+A.4.6,Human resources,gap,,Pending addition in PR-HR-001 Training and Competence Procedure - owner: Human Resources Directorate
+A.5.2,AI system impact assessment process,evidence_present,PR-AIGOV-004 AI System Impact Assessment Procedure,
+A.5.3,Documentation of AI system impact assessments,evidence_present,PR-AIGOV-004 AI System Impact Assessment Procedure,
+A.5.4,Assessing impact on individuals or groups,evidence_present,PR-AIGOV-004 / POL-DG-001 Personal Data Policy,
+A.5.5,Assessing societal impacts,gap,,Pending addition in PR-AIGOV-004 AI System Impact Assessment Procedure - owner: AI Governance Team (Data Management and Analytics Directorate)
+A.6.1.2,Objectives for responsible development,evidence_present,PR-AIGOV-003 AI System Lifecycle Procedure,
+A.6.1.3,Processes for responsible design and development,evidence_present,PR-AIGOV-003 AI System Lifecycle Procedure,
+A.6.2.2,AI system requirements and specification,evidence_present,PR-AIGOV-003 / PR-ITS-002 Software Development Procedure,
+A.6.2.3,Documentation of design and development,evidence_present,PR-AIGOV-003 AI System Lifecycle Procedure,
+A.6.2.4,AI system verification and validation,gap,,Pending addition in PR-AIS-001 Model Validation Procedure - owner: Artificial Intelligence Solutions Directorate
+A.6.2.5,AI system deployment,gap,,Pending addition in PR-ITO-002 Change Management / PR-ITO-006 Environment Separation - owner: IT Infrastructure and Operations Directorate
+A.6.2.6,AI system operation and monitoring,gap,,Pending addition in PR-ITO-003 Monitoring and Event Management Procedure - owner: IT Infrastructure and Operations Directorate
+A.6.2.7,AI system technical documentation,evidence_present,PR-AIGOV-003 AI System Lifecycle Procedure,
+A.6.2.8,AI system recording of event logs,gap,,Pending addition in PR-SEC-002 Log Management Procedure - owner: Information Security Directorate
+A.7.2,Data for development and enhancement,gap,,Pending addition in PR-DG-004 RAG and Corporate Document Corpus Standard - owner: Data Management and Analytics Directorate
+A.7.3,Acquisition of data,gap,,Pending addition in PR-DG-003 Data Acquisition and Labelling Standard - owner: Data Management and Analytics Directorate
+A.7.4,Quality of data for AI systems,gap,,Pending addition in PR-DG-001 Data Quality Procedure - owner: Data Management and Analytics Directorate
+A.7.5,Data provenance,gap,,Pending addition in PR-DG-002 Metadata and Data Lineage Procedure - owner: Data Management and Analytics Directorate
+A.7.6,Data preparation,gap,,Pending addition in PR-ITS-004 Test Management / PR-DG-003 Data Acquisition and Labelling - owner: IT Strategy and Governance Directorate
+A.8.2,System documentation and information for users,gap,,Pending addition in PR-DG-005 Transparency and Information Notices Standard - owner: Data Management and Analytics Directorate
+A.8.3,External reporting,gap,,Pending addition in PR-DG-006 AI Concern Reporting Route - owner: Data Management and Analytics Directorate
+A.8.4,Communication of incidents,gap,,Pending addition in PR-SEC-003 Information Security and Cyber Incident Management - owner: Information Security Directorate
+A.8.5,Information for interested parties,gap,,Pending addition in PR-DG-005 Transparency and Information Notices Standard - owner: Data Management and Analytics Directorate
+A.9.2,Processes for responsible use,evidence_present,PR-AIGOV-003 AI System Lifecycle Procedure,
+A.9.3,Objectives for responsible use (incl. fairness/oversight),evidence_present,PR-AIGOV-003 AI System Lifecycle Procedure,
+A.9.4,Intended use of the AI system,evidence_present,PR-AIGOV-003 AI System Lifecycle Procedure,
+A.10.2,Allocating responsibilities,gap,,Pending addition in PR-ITS-006 Information Systems Supplier Management - owner: IT Strategy and Governance Directorate
+A.10.3,Suppliers,gap,,Pending addition in PR-ITS-006 Information Systems Supplier Management - owner: IT Strategy and Governance Directorate
+A.10.4,Customers,gap,,Pending addition in PR-ITS-006 Information Systems Supplier Management - owner: IT Strategy and Governance Directorate
