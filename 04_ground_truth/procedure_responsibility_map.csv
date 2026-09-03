@@ -1,0 +1,39 @@
+control_id,control_title,policy_status,proposed_procedure,primary_owner,contributing_owner,new_or_addition
+A.2.2,AI policy,evidence_present,POL-AIGOV-001 AI Policy,AI Governance Team (Data Management and Analytics Directorate),IT Strategy and Governance Directorate,published
+A.2.3,Alignment with other organizational policies,evidence_present,POL-AIGOV-001 AI Policy,AI Governance Team (Data Management and Analytics Directorate),IT Strategy and Governance Directorate,published
+A.2.4,Review of the AI policy,evidence_present,POL-AIGOV-001 AI Policy,AI Governance Team (Data Management and Analytics Directorate),IT Strategy and Governance Directorate,published
+A.3.2,AI roles and responsibilities,gap,PR-AIGOV-002 / PR-SEC-001 Privileged Session Management,Information Security Directorate,IT Strategy and Governance Directorate,new
+A.3.3,Reporting of concerns,gap,PR-DG-006 AI Concern Reporting Route,Data Management and Analytics Directorate,Information Security Directorate,new
+A.4.2,Resource documentation,gap,PR-ITS-001 IT Risk Management / PR-ITO-005 Asset and Configuration Management,IT Strategy and Governance Directorate,IT Infrastructure and Operations Directorate,new
+A.4.3,Data resources,gap,PR-DG-002 Metadata and Data Lineage Procedure,Data Management and Analytics Directorate,Artificial Intelligence Solutions Directorate,addition
+A.4.4,Tooling resources,gap,PR-ITO-005 Asset and Configuration Management Procedure,IT Infrastructure and Operations Directorate,IT Infrastructure and Operations Directorate,new
+A.4.5,System and computing resources,gap,PR-ITO-001 Capacity and Performance / PR-ITO-004 Backup and BC,IT Infrastructure and Operations Directorate,Artificial Intelligence Solutions Directorate,addition
+A.4.6,Human resources,gap,PR-HR-001 Training and Competence Procedure,Human Resources Directorate,Artificial Intelligence Solutions Directorate,new
+A.5.2,AI system impact assessment process,evidence_present,PR-AIGOV-004 AI System Impact Assessment Procedure,AI Governance Team (Data Management and Analytics Directorate),Data Management and Analytics Directorate,published
+A.5.3,Documentation of AI system impact assessments,evidence_present,PR-AIGOV-004 AI System Impact Assessment Procedure,AI Governance Team (Data Management and Analytics Directorate),Data Management and Analytics Directorate,published
+A.5.4,Assessing impact on individuals or groups,evidence_present,PR-AIGOV-004 / POL-DG-001 Personal Data Policy,AI Governance Team (Data Management and Analytics Directorate),Data Management and Analytics Directorate,published
+A.5.5,Assessing societal impacts,gap,PR-AIGOV-004 AI System Impact Assessment Procedure,AI Governance Team (Data Management and Analytics Directorate),IT Strategy and Governance Directorate,new
+A.6.1.2,Objectives for responsible development,evidence_present,PR-AIGOV-003 AI System Lifecycle Procedure,AI Governance Team (Data Management and Analytics Directorate),AI Governance Team (Data Management and Analytics Directorate),published
+A.6.1.3,Processes for responsible design and development,evidence_present,PR-AIGOV-003 AI System Lifecycle Procedure,AI Governance Team (Data Management and Analytics Directorate),IT Strategy and Governance Directorate,published
+A.6.2.2,AI system requirements and specification,evidence_present,PR-AIGOV-003 / PR-ITS-002 Software Development Procedure,AI Governance Team (Data Management and Analytics Directorate),IT Strategy and Governance Directorate,published
+A.6.2.3,Documentation of design and development,evidence_present,PR-AIGOV-003 AI System Lifecycle Procedure,AI Governance Team (Data Management and Analytics Directorate),IT Strategy and Governance Directorate,published
+A.6.2.4,AI system verification and validation,gap,PR-AIS-001 Model Validation Procedure,Artificial Intelligence Solutions Directorate,Data Management and Analytics Directorate,new
+A.6.2.5,AI system deployment,gap,PR-ITO-002 Change Management / PR-ITO-006 Environment Separation,IT Infrastructure and Operations Directorate,IT Infrastructure and Operations Directorate,addition
+A.6.2.6,AI system operation and monitoring,gap,PR-ITO-003 Monitoring and Event Management Procedure,IT Infrastructure and Operations Directorate,IT Infrastructure and Operations Directorate,new
+A.6.2.7,AI system technical documentation,evidence_present,PR-AIGOV-003 AI System Lifecycle Procedure,AI Governance Team (Data Management and Analytics Directorate),IT Strategy and Governance Directorate,published
+A.6.2.8,AI system recording of event logs,gap,PR-SEC-002 Log Management Procedure,Information Security Directorate,Information Security Directorate,addition
+A.7.2,Data for development and enhancement,gap,PR-DG-004 RAG and Corporate Document Corpus Standard,Data Management and Analytics Directorate,Artificial Intelligence Solutions Directorate,new
+A.7.3,Acquisition of data,gap,PR-DG-003 Data Acquisition and Labelling Standard,Data Management and Analytics Directorate,Artificial Intelligence Solutions Directorate,new
+A.7.4,Quality of data for AI systems,gap,PR-DG-001 Data Quality Procedure,Data Management and Analytics Directorate,Artificial Intelligence Solutions Directorate,addition
+A.7.5,Data provenance,gap,PR-DG-002 Metadata and Data Lineage Procedure,Data Management and Analytics Directorate,Artificial Intelligence Solutions Directorate,addition
+A.7.6,Data preparation,gap,PR-ITS-004 Test Management / PR-DG-003 Data Acquisition and Labelling,IT Strategy and Governance Directorate,Artificial Intelligence Solutions Directorate,new
+A.8.2,System documentation and information for users,gap,PR-DG-005 Transparency and Information Notices Standard,Data Management and Analytics Directorate,Artificial Intelligence Solutions Directorate,new
+A.8.3,External reporting,gap,PR-DG-006 AI Concern Reporting Route,Data Management and Analytics Directorate,Information Security Directorate,new
+A.8.4,Communication of incidents,gap,PR-SEC-003 Information Security and Cyber Incident Management,Information Security Directorate,AI Governance Team (Data Management and Analytics Directorate),addition
+A.8.5,Information for interested parties,gap,PR-DG-005 Transparency and Information Notices Standard,Data Management and Analytics Directorate,IT Strategy and Governance Directorate,new
+A.9.2,Processes for responsible use,evidence_present,PR-AIGOV-003 AI System Lifecycle Procedure,AI Governance Team (Data Management and Analytics Directorate),Artificial Intelligence Solutions Directorate,published
+A.9.3,Objectives for responsible use (incl. fairness/oversight),evidence_present,PR-AIGOV-003 AI System Lifecycle Procedure,AI Governance Team (Data Management and Analytics Directorate),Artificial Intelligence Solutions Directorate,published
+A.9.4,Intended use of the AI system,evidence_present,PR-AIGOV-003 AI System Lifecycle Procedure,AI Governance Team (Data Management and Analytics Directorate),Artificial Intelligence Solutions Directorate,published
+A.10.2,Allocating responsibilities,gap,PR-ITS-006 Information Systems Supplier Management,IT Strategy and Governance Directorate,AI Governance Team (Data Management and Analytics Directorate),new
+A.10.3,Suppliers,gap,PR-ITS-006 Information Systems Supplier Management,IT Strategy and Governance Directorate,Information Security Directorate,addition
+A.10.4,Customers,gap,PR-ITS-006 Information Systems Supplier Management,IT Strategy and Governance Directorate,IT Strategy and Governance Directorate,new
